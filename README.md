@@ -6,7 +6,7 @@ $ git clone https://github.com/.../math-comp-tech-lab1
 
 Do some editing with the local project
 
-To upload the changes you made back to the remote version:
+To upload the changes you made back to the server:
 
 $ git status
 
