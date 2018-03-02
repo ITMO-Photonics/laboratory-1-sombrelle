@@ -4,7 +4,7 @@ Once your lab1 project is created after clicking on the gitHub Classroom link, c
 
 $ git clone https://github.com/.../math-comp-tech-lab1
 
-Do some editing with the local project
+[Perform some work with your local project]
 
 To upload the changes you made locally to the github project:
 
